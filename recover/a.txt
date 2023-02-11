@@ -1,0 +1,5 @@
+take char input
+look at first character ASCII
+use that number to determine where to store the word
+(character - 97)
+
